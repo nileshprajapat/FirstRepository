@@ -1,7 +1,6 @@
 Hello World
-<<<<<<< HEAD
+
 
 My Edits
-=======
+
 GIT changes
->>>>>>> 8029a6320a794d5c03c36669f85e9796d1794a91
